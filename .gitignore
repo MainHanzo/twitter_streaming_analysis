@@ -2,3 +2,6 @@ credentials.py
 __pycache__
 .ipynb_checkpoints
 tweets_json/*
+metastore_db
+spark-warehouse
+derby.log
